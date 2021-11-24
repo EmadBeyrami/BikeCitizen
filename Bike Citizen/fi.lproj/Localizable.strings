@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Bike Citizen
+
+  Created by Emad Bayramy on 11/24/21.
+  
+*/
+
+
+"to_Products" = "Tuotteisiin";
+"Change_Language" = "Change Language";
+
+// Copied from Google Translate :)
+"controllFlowNotelabel" = "Note: Voit suodattaa tuotteita valitsemalla luokan TableView-tuotteiden yläpuolelta";

@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Bike Citizen
+
+  Created by Emad Bayramy on 11/24/21.
+  
+*/
+
+"to_Products" = "Zu Produkten";
+"Change_Language" = "Change Language";
+
+// Copied from Google Translate :)
+"controllFlowNotelabel" = "Note: Sie können Produkte filtern, indem Sie eine Kategorie über der Produkttabelle auswählen";

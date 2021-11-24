@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BEEBBDE4-3DCD-476A-896C-24BE4131994E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "087C9935-BA97-414D-8657-0D343D1BE33F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bike Citizen/Scenes/Search/ViewModel/SearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "checkForFavourites()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C505D64E-1339-4B80-A678-B80FC7BE0081"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bike Citizen/Scenes/Search/ViewModel/SearchViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "saveItem(model:isFaved:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D4F1514-F12F-406E-B32F-04A208D5CA13"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bike CitizenTests/TestCoordinator/TestAppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "test_toHome()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6D4F1514-F12F-406E-B32F-04A208D5CA13 - 4bb702434738e083"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bike_CitizenTests.AppCoordinatorTests.test_toHome() throws -&gt; ()"
+                  moduleName = "Bike CitizenTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emadbayramy/Documents/EMAD%20PV/iOS%20Test/Bike%20Citizen/Bike%20CitizenTests/TestCoordinator/TestAppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "641">
+               </Location>
+               <Location
+                  uuid = "6D4F1514-F12F-406E-B32F-04A208D5CA13 - 4bb702434738e083"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bike_CitizenTests.AppCoordinatorTests.test_toHome() throws -&gt; ()"
+                  moduleName = "Bike CitizenTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emadbayramy/Documents/EMAD%20PV/iOS%20Test/Bike%20Citizen/Bike%20CitizenTests/TestCoordinator/TestAppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "535">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C79CD300-4C08-4F35-88E6-BC679900E448"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bike CitizenTests/TestCoordinator/TestAppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "test_toHome()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C79CD300-4C08-4F35-88E6-BC679900E448 - 4bb702434738e0a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bike_CitizenTests.AppCoordinatorTests.test_toHome() throws -&gt; ()"
+                  moduleName = "Bike CitizenTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emadbayramy/Documents/EMAD%20PV/iOS%20Test/Bike%20Citizen/Bike%20CitizenTests/TestCoordinator/TestAppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "C79CD300-4C08-4F35-88E6-BC679900E448 - 4bb702434738e0a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bike_CitizenTests.AppCoordinatorTests.test_toHome() throws -&gt; ()"
+                  moduleName = "Bike CitizenTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emadbayramy/Documents/EMAD%20PV/iOS%20Test/Bike%20Citizen/Bike%20CitizenTests/TestCoordinator/TestAppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "388">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

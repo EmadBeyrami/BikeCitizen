@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "name": "Plaz",
+      "summary": "SI",
+      "type": "address",
+      "lat": 45.8423875,
+      "lon": 13.9722029,
+      "id": "N574261791",
+      "icon_url": "https://api.bikecitizens.net/assets/poi_icons/default_address-98820ab7a6e9fda44f14836ed9543d0469fbae58786a591325971e5562027c05.png"
+    },
+    {
+      "name": "Plaz",
+      "summary": "Gazzaniga, Lombardy, IT",
+      "type": "address",
+      "lat": 45.7989913,
+      "lon": 9.7967356,
+      "id": "N7847526174",
+      "icon_url": "https://api.bikecitizens.net/assets/poi_icons/default_address-98820ab7a6e9fda44f14836ed9543d0469fbae58786a591325971e5562027c05.png"
+    },
+    {
+      "name": "Torrente Valle Plaz",
+      "summary": "IT",
+      "type": "address",
+      "lat": 45.7887342,
+      "lon": 9.8284108,
+      "id": "W102634716",
+      "icon_url": "https://api.bikecitizens.net/assets/poi_icons/default_address-98820ab7a6e9fda44f14836ed9543d0469fbae58786a591325971e5562027c05.png"
+    },
+    {
+      "name": "Torrente Valle Plaz",
+      "summary": "IT",
+      "type": "address",
+      "lat": 45.7989993,
+      "lon": 9.7889673,
+      "id": "W69995024",
+      "icon_url": "https://api.bikecitizens.net/assets/poi_icons/default_address-98820ab7a6e9fda44f14836ed9543d0469fbae58786a591325971e5562027c05.png"
+    },
+    {
+      "name": "Torrente Valle Plaz",
+      "summary": "IT",
+      "type": "address",
+      "lat": 45.7978712,
+      "lon": 9.7916038,
+      "id": "W219155226",
+      "icon_url": "https://api.bikecitizens.net/assets/poi_icons/default_address-98820ab7a6e9fda44f14836ed9543d0469fbae58786a591325971e5562027c05.png"
+    },
+    {
+      "name": "SV plaz",
+      "summary": "SI",
+      "type": "address",
+      "lat": 46.4268466,
+      "lon": 14.2497826,
+      "id": "W496442410",
+      "icon_url": "https://api.bikecitizens.net/assets/poi_icons/default_address-98820ab7a6e9fda44f14836ed9543d0469fbae58786a591325971e5562027c05.png"
+    },
+    {
+      "name": "Torrente Valle Plaz",
+      "summary": "IT",
+      "type": "address",
+      "lat": 45.7918886,
+      "lon": 9.827776,
+      "id": "W102634711",
+      "icon_url": "https://api.bikecitizens.net/assets/poi_icons/default_address-98820ab7a6e9fda44f14836ed9543d0469fbae58786a591325971e5562027c05.png"
+    },
+    {
+      "name": "Plaz Londzet",
+      "summary": "Valgrisenche, Aosta Valley, IT",
+      "type": "address",
+      "lat": 45.6033159,
+      "lon": 7.0700559,
+      "id": "N1456826315",
+      "icon_url": "https://api.bikecitizens.net/assets/poi_icons/default_address-98820ab7a6e9fda44f14836ed9543d0469fbae58786a591325971e5562027c05.png"
+    },
+    {
+      "name": "Pláž Perla",
+      "summary": "SK",
+      "type": "address",
+      "lat": 48.7691839,
+      "lon": 17.859588959871914,
+      "id": "W87318035",
+      "icon_url": "https://api.bikecitizens.net/assets/poi_icons/default_address-98820ab7a6e9fda44f14836ed9543d0469fbae58786a591325971e5562027c05.png"
+    },
+    {
+      "name": "Letní pláž",
+      "summary": "CZ",
+      "type": "address",
+      "lat": 50.42986085,
+      "lon": 14.907246498174313,
+      "id": "R11695286",
+      "icon_url": "https://api.bikecitizens.net/assets/poi_icons/default_address-98820ab7a6e9fda44f14836ed9543d0469fbae58786a591325971e5562027c05.png"
+    },
+    {
+      "name": "Hlavní pláž",
+      "summary": "CZ",
+      "type": "address",
+      "lat": 50.5851136,
+      "lon": 14.330743864098354,
+      "id": "W128921149",
+      "icon_url": "https://api.bikecitizens.net/assets/poi_icons/default_address-98820ab7a6e9fda44f14836ed9543d0469fbae58786a591325971e5562027c05.png"
+    },
+    {
+      "name": "Druhá pláž",
+      "summary": "CZ",
+      "type": "address",
+      "lat": 50.591667,
+      "lon": 14.334835272940186,
+      "id": "W235289087",
+      "icon_url": "https://api.bikecitizens.net/assets/poi_icons/default_address-98820ab7a6e9fda44f14836ed9543d0469fbae58786a591325971e5562027c05.png"
+    },
+    {
+      "name": "Horská pláž",
+      "summary": "SK",
+      "type": "address",
+      "lat": 49.07144315,
+      "lon": 19.27354677484597,
+      "id": "W584524003",
+      "icon_url": "https://api.bikecitizens.net/assets/poi_icons/default_address-98820ab7a6e9fda44f14836ed9543d0469fbae58786a591325971e5562027c05.png"
+    },
+    {
+      "name": "Birški plaz",
+      "summary": "SI",
+      "type": "address",
+      "lat": 46.42359265,
+      "lon": 14.304115374412966,
+      "id": "W579271147",
+      "icon_url": "https://api.bikecitizens.net/assets/poi_icons/default_address-98820ab7a6e9fda44f14836ed9543d0469fbae58786a591325971e5562027c05.png"
+    },
+    {
+      "name": "Južná pláž",
+      "summary": "SK",
+      "type": "address",
+      "lat": 48.2154419,
+      "lon": 17.40847037764731,
+      "id": "W800546331",
+      "icon_url": "https://api.bikecitizens.net/assets/poi_icons/default_address-98820ab7a6e9fda44f14836ed9543d0469fbae58786a591325971e5562027c05.png"
+    }
+  ]
+}

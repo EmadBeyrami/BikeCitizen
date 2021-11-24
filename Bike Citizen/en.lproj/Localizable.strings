@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Bike Citizen
+
+  Created by Emad Bayramy on 11/24/21.
+  
+*/
+
+"to_Products" = "To Products";
+"Change_Language" = "Change Language";
+"controllFlowNotelabel" = "Note: You can filter products by selecting category above the products TableView";
